@@ -1,1 +1,1 @@
-# Study Sync Projet
+# Study Sync Project
